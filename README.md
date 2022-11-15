@@ -1,11 +1,9 @@
-&emsp;
-
 ## **音声AIのトレーニング**
 
-　このリポジトリは、thkkvui.github.ioの内容に基づいています。詳細については、以下のリンクをご参照ください。
+　thkkvui.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
 
 - [thkkvui.github.io](https://thkkvui.github.io)
-- [about](https://thkkvui.github.io/about)
+- [このプロジェクトについて](https://thkkvui.github.io/about)
 
 &emsp;
 
